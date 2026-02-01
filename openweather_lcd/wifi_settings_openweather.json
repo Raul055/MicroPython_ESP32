@@ -1,5 +1,5 @@
 {
-  "wifi_name": "FIME",
-  "password": "27f1m32030",
-  "open_weather_key":"fd2e838956f3de446d67cfb324eab554"
+  "wifi_name": "Your wifi name",
+  "password": "Your wifi password",
+  "open_weather_key":"Your open weather key"
 }
